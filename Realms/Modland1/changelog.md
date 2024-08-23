@@ -62,15 +62,13 @@ Estes comandos irão apresentar uma caixa com diversas informações na tela.
 
 <@&1136538885237776484>
 
-# -— Alterações —-
   **5 de Agosto, Segunda-feira [05/08/24]**  
 
 ## Patch 2
 - 🔷️ **Novas variações de armaduras adicionadas.**
 - ❌️** Cinto de Ferramentas removido.**
 
-- # -— Alterações  —-
-  **6 de Agosto, Terça-feira [06/08/24]**  
+    **6 de Agosto, Terça-feira [06/08/24]**  
 
 ## Patch 3
 
@@ -104,8 +102,7 @@ Estes comandos irão apresentar uma caixa com diversas informações na tela.
 - **🔶️  Coleta Instantânea desativada.**
  - _Mais uma alteração para evitar problemas de lore_item e espaços desperdiçados no inventário._
 
-# -— Alterações —-
-**9 de Agosto, Sexta-feira [09/08/24]**
+    **9 de Agosto, Sexta-feira [09/08/24]**
 
 ## **Patch4**
 - **🔷️  Adicionada uma nova textura de melhorias de visual da interface.**
@@ -115,8 +112,7 @@ Estes comandos irão apresentar uma caixa com diversas informações na tela.
 - **❌️ Capacidade de colocar itens diversos na segunda mão removida.**
  - _"Pointless" é a  palavra que define este addon._
 
-# -— Alterações —-
-**12 de Agosto, Segunda-feira [12/08/24]**
+    **12 de Agosto, Segunda-feira [12/08/24]**
 
 ## **Patch5**
 - **🔷️ Adicionadas melhorias significativas à armadura de Netherita e a possibilidade de upgrade com modelo.**
