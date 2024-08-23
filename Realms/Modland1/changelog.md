@@ -61,3 +61,81 @@ Estes comandos irão apresentar uma caixa com diversas informações na tela.
  - Intervalo: 1min
 
 <@&1136538885237776484>
+
+# -— Alterações —-
+  **5 de Agosto, Segunda-feira [05/08/24]**  
+
+## Patch 2
+- 🔷️ **Novas variações de armaduras adicionadas.**
+- ❌️** Cinto de Ferramentas removido.**
+
+- # -— Alterações  —-
+  **6 de Agosto, Terça-feira [06/08/24]**  
+
+## Patch 3
+
+- 🔷️ **Visualizador de durabilidade do equipamento/ferramenta adicionado**.
+- 🔷️ **Mesa de Encantamento Reforçada adicionada.**
+
+- 🔶️ **Raiyon's More Shields atualizado.**
+ - _Isso significa que será necessário apagar a versão antiga do addon em Dados Guardados._
+
+- **❌️ WAILA removido. (Visualizador de informações de blocos, animais, etc.)**
+ - _Simplesmente não fazia sentido com o Canopy instalado._
+- **❌️ Reforço de Cota de Malha removido.**
+ - _O addon não funcionava como deveria._
+
+## Patch 3b
+
+- 🔶️ **O tempo do intervalo do Anti-Lag reduziu de 2min30s para 2min.**
+- ❌️ **Capas personalizadas removidas.**
+ - _Os addons Visual Capes e Survival Reworked estavam dando conflito e a remoção do mais irrelevante foi necessária._
+
+## Patch 3c
+
+- **🔷️  Novas mochilas adicionadas.**
+- **🔶️  Sistema de Iluminação Dinâmica alterado de System Dynamics para Raiyon's.**
+ - _Na prática, menos itens bugados devem existir._
+- **❌️ Indicador de Saturação de Alimento removido.**
+ - _Este mesmo addon fazia com que todos os alimentos que fossem colocados em um container ficassem presos no mesmo._
+
+## Patch 3d
+
+- **🔶️  Coleta Instantânea desativada.**
+ - _Mais uma alteração para evitar problemas de lore_item e espaços desperdiçados no inventário._
+
+# -— Alterações —-
+**9 de Agosto, Sexta-feira [09/08/24]**
+
+## **Patch4**
+- **🔷️  Adicionada uma nova textura de melhorias de visual da interface.**
+ - _Esta mesma textura receberá atualizações durante sua existência no Realm_
+
+## **Patch4b**
+- **❌️ Capacidade de colocar itens diversos na segunda mão removida.**
+ - _"Pointless" é a  palavra que define este addon._
+
+# -— Alterações —-
+**12 de Agosto, Segunda-feira [12/08/24]**
+
+## **Patch5**
+- **🔷️ Adicionadas melhorias significativas à armadura de Netherita e a possibilidade de upgrade com modelo.**
+ - _Basicamente, mais níveis de poder._
+- **🔷️ Adicionada uma descrição dos encantamentos visualmente mais agradável.**
+- **🔷️ Receitas adicionais de itens agora estão disponíveis.**
+ - _Maçã do Notch, itens de diamante… coisas assim._
+- **🔶️  DropItens foi atualizado.**
+_Vale ressaltar que este patch foi feito ontem [11/08] mas não foi registrado por falta de tempo._
+
+## **Patch6**
+- **🔷️ Adicionada mais uma mesa de encantamentos personalizada.**
+- **🔷️ Adicionada mais uma mochila especial, essa contendo capacidade para carregar uma enorme quantidade de líquidos. (Lava e Água)**
+
+## Servidores Realms reparados.
+Depois de 6 dias sem acesso aos Realms e as assinaturas, a equipe da Mojang relatou ter conseguido recuperar a estabilidade dos seus servidores.
+
+> _"O inconveniente causado por nossos servidores foi resolvido e todos os jogadores devem ter o acesso aos Realms restaurados."_
+
+Dito isso, [Survival Reworked](https://mcpedl.com/survival-reworked/) e [Better On Bedrock](https://mcpedl.com/better-on-bedrock/) serão os dois pioneiros do novo mundo. 
+
+Aguardem.
