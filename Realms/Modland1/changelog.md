@@ -21,20 +21,35 @@ _Não chegou a finalizar a gameplay, com apenas 15 minutos de jogo._
 # - BIBLIOTECA ※
 
 https://mcpedl.com/advanced-storage-network-2/
+
 https://mcpedl.com/open-blocks-elevators/
+
 https://mcpedl.com/collapse-ui/
+
 https://mcpedl.com/dark-mode-ui/
+
 https://mcpedl.com/?s=Tree%20Capitator
+
 https://mcpedl.com/raiyon-s-more-enchantments-addon/
+
 https://mcpedl.com/quarry-add-on/
+
 https://mcpedl.com/visual-capes-addon/
+
 https://mcpedl.com/vein-miner-addon-1-21-0/
+
 https://mcpedl.com/raiyons-offhand/
+
 https://mcpedl.com/more-simple-structures-addon/
+
 https://mcpedl.com/steel-plus/
+
 https://mcpedl.com/kamii-s-script-configuration/
+
 https://mcpedl.com/droplight-multi-language-2/
+
 https://mcpedl.com/raiyons-more-shields-addon/
+
 https://mcpedl.com/survival-reworked/
 
 # - CANOPY ※
