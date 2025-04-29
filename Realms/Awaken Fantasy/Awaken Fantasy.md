@@ -1,5 +1,5 @@
 ### 𝐑𝐄𝐀𝐋𝐌 𝐈 - 𝐌𝐎𝐃 𝐋𝐀𝐍𝐃 ※
--# (Finalizado. Consulte as alterações [aqui](Realms/Modland1/changelog.md))
+-# (Finalizado. Consulte as alterações [aqui](https://github.com/Kauziin/SX-Realms-History/blob/main/Realms/Modland1/changelog.md))
 
 # - **𝐑𝐄𝐀𝐋𝐌 𝐈𝐈 - 𝐀𝐖𝐀𝐊𝐄𝐍 𝐅𝐀𝐍𝐓𝐀𝐒𝐘: 𝐒𝐄𝐀𝐒𝐎𝐍 7**
 
