@@ -27,7 +27,7 @@ _Mais em breve._
 
 ## Adições
 - **O add-on que é a base do funcionamento do famoso _Realism Craft_, do Marketplace, foi adicionado ao mundo.**
- - Isso significa que temos: Visuais aprimorados, animais e itens melhorados, modelos mais elegantes, ambientação aprimorada e diversas outras mudanças que deixam a jogatina mais agradável.
+  - Isso significa que temos: Visuais aprimorados, animais e itens melhorados, modelos mais elegantes, ambientação aprimorada e diversas outras mudanças que deixam a jogatina mais agradável.
 - **Better on Bedrock e Survival Reworked finalmente foram unidos em um mundo só. A experiência de exploração de Better on Bedrock e a dificuldade extrema de Survival Reworked faz com que o jogo ganhe mais 2 graus de dificuldade.**
 - **O clássico More Ores Tools, popular nas versão 1.18, foi adicionado ao mundo, trazendo uma enorme variedade itens, minérios e _toolsets_. Definitivamente uma expansão bem-vinda.**
 - **Loja in-game _(Em breve)_.**
@@ -37,21 +37,21 @@ Para resolver os problemas de crafting entre os addons, uma loja será implement
 
 - ## Mudanças
 - **Alguns dos add-ons presentes no Realm anterior foram atualizados, sendo eles:**
- - Survival Reworked
- - Red Tool Belt (Retornando de Mod-Land)
- - Advanced Storage Network
- - Traveler's Backpack
- - WAILA (What Am I Looking At)
+  - Survival Reworked
+  - Red Tool Belt (Retornando de Mod-Land)
+  - Advanced Storage Network
+  - Traveler's Backpack
+  - WAILA (What Am I Looking At)
 - **O Anti-Lag voltou a ter o seu funcionamento antigo, mas com uma pequena alteração de intervalo.**
- - _O tempo entre os teleportes aumentou de 1 minuto para 2 minutos e meio. (60s → 150s)_
+  - _O tempo entre os teleportes aumentou de 1 minuto para 2 minutos e meio. (60s → 150s)_
 - **Agora, aparentemente, TODOS os pacotes são baixados sem problemas nos consoles Xbox One e Xbox Series X|S.** ( <@821485417747709993> )
 
 ## Remoções
 
 - **Add-ons que foram quebrados pela 1.21.20 foram removidos, sendo alguns deles:**
- - Advanced Machinery _(F melhor addon de máquina)_
- - Open Blocks Elevator
- - (Mais alguns que eu não vou lembrar, já que haviam 27 pacotes em Mod-Land)
+  - Advanced Machinery _(F melhor addon de máquina)_
+  - Open Blocks Elevator
+  - (Mais alguns que eu não vou lembrar, já que haviam 27 pacotes em Mod-Land)
 
 # ◈ CHANGELOG-1A
 -# 27/08/24
@@ -72,27 +72,27 @@ Para resolver os problemas de crafting entre os addons, uma loja será implement
 ## **NOVIDADES 🔶️**
 - **WAILA foi readicionado ao jogo.**
 - **Sorting Wand foi adicionado ao jogo.**
- - _Sua função é reorganizar os baús, listando os itens em ordem alfabética._
+  - _Sua função é reorganizar os baús, listando os itens em ordem alfabética._
 - **Elevators 1.0.5 foi adicionado ao jogo, substituindo o antigo Open Blocks Elevator.**
 - **Sawmill Add-on foi adicionado ao jogo.**
- - _Sua principal função é replicar o que o Cortador de Pedra faz com as pedras, mas com madeira._
+  - _Sua principal função é replicar o que o Cortador de Pedra faz com as pedras, mas com madeira._
 - **Enlightenment Collection foi adicionado ao mundo.**
- - _Mais um *tool & armor set* adicionado ao jogo._
+  - _Mais um *tool & armor set* adicionado ao jogo._
 - **Bedrock Energistics foi adicionado ao jogo.**
- - _Sua função é adicionar máquinas que realizam funções específicas._
+  - _Sua função é adicionar máquinas que realizam funções específicas._
 - **Effect Pillars foi adicionado ao jogo.**
- - _Semelhante aos bracons, eles dão efeitos quando criados._
+  - _Semelhante aos bracons, eles dão efeitos quando criados._
 - Utility Craft foi adicionado ao jogo.
- - _Como o próprio nome diz, Utility Craft adiciona vários itens e melhorias de vida ao jogo para uma gameplay mais diversa._
+  - _Como o próprio nome diz, Utility Craft adiciona vários itens e melhorias de vida ao jogo para uma gameplay mais diversa._
 **DUAS BACKPACKS (MOCHILAS) FORAM ADICIONADAS:**
 - **Backpacks Plus**
- - _Simples, prática e objetiva. Possui 4 variantes e espaço máximo bom._
+  - _Simples, prática e objetiva. Possui 4 variantes e espaço máximo bom._
 - **Sophistcangel Backpack**
- - _Seu principal diferencial é a possibilidade de melhorar a mochila. Possui 4 variantes e espaço máximo excelente._
+  - _Seu principal diferencial é a possibilidade de melhorar a mochila. Possui 4 variantes e espaço máximo excelente._
 
 ## RECURSOS 🔷️
 - **Agora é possível escolher uma música do Minecraft para tocar manualmente.**
- - Para usar, clique em Emote (B no Teclado; D-PAD ESQUERDO no Controle; Ícone de Emote no Mobile) e navegue entre as colunas para escolher a música ou lista de reprodução que deseja tocar.
+  - Para usar, clique em Emote (B no Teclado; D-PAD ESQUERDO no Controle; Ícone de Emote no Mobile) e navegue entre as colunas para escolher a música ou lista de reprodução que deseja tocar.
 
 ## **REMOÇÕES ❌️**
 
@@ -119,7 +119,7 @@ Para resolver os problemas de crafting entre os addons, uma loja será implement
 - **Vanilla Mob Variants foi adicionado ao jogo, trazendo diversidade às skins das entidades.**
 - **Ty-El's UI foi adicionado ao jogo, trazendo várias melhorias de interface. (Principalmente pro mobile)**
 - **Custom Enchantment v0.1 foi adicionado ao jogo, trazendo dezenas de encantamentos novos.**
- - _Use um Atril para usar os novos encantamentos enquanto segura o equipamento que deseja encantar._
+  - _Use um Atril para usar os novos encantamentos enquanto segura o equipamento que deseja encantar._
 - **Raiyon's Dynamic Lightning foi re-adicionado.**
 -# (Usado anteriormente em Mod-Land).
 
@@ -147,20 +147,20 @@ Para resolver os problemas de crafting entre os addons, uma loja será implement
 
 ## **NOVIDADES <:big_plus_green:1284351083237605488>**
 - **bum_Crops! foi adicionado ao mundo.**
- - _Este addon traz uma nova variedade de plantações e consumíveis._
+  - _Este addon traz uma nova variedade de plantações e consumíveis._
 - **Disenchanter foi re-adicionado**
 -# Estava desativado por questões de incompatibilidade.
 
 ## **REMOÇÕES ❌️ **
 - OS SEGUINTES ADDONS FORAM REMOVIDOS:
- - True More Tools
- - True Amor and Tools Expansion
- - Seed Harvester
- - Realism Craft
- - Fortify
- - Sawmill
- - Enlightenment Collection
- - Sorting Wand
+  - True More Tools
+  - True Amor and Tools Expansion
+  - Seed Harvester
+  - Realism Craft
+  - Fortify
+  - Sawmill
+  - Enlightenment Collection
+  - Sorting Wand
 
 ## <@&1290449190677118996> O realm já pode ser ingressado novamente.
 
