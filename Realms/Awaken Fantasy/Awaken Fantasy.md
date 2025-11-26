@@ -58,7 +58,7 @@ Para resolver os problemas de crafting entre os addons, uma loja será implement
 
 ## **NOVIDADES 🔶️**
 
-- Adicionado o registro permanente de jogadores na lista de jogadores, registrando o TEMPO TOTAL PESSOAL JOGADO (de cada jogador individualmente), TEMPO TOTAL GERAL JOGADO (de todos os jogadores + o tempo extra que o servidor ficou ligado entre a entrada e saída dos jogadores) e INDICADOR DE CONTAS DA  LIVE.
+- Adicionado o registro permanente de jogadores na lista de jogadores, registrando o TEMPO TOTAL PESSOAL JOGADO (de cada jogador individualmente), TEMPO TOTAL GERAL JOGADO (de todos os jogadores + o tempo extra que o servidor ficou ligado entre a entrada e saída dos jogadores) e INDICADOR DE CONTAS DA LIVE.  
 -# Este último não registra propriamente as contas, apenas separa o Ranking da lista de jogadores ONLINE.
 
 ## **REMOÇÕES ❌️**
